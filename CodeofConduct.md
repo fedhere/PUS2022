@@ -1,4 +1,4 @@
-# Machine Learning for Time Series Analysis Code of Conduct
+# Principles of Urban Science Code of Conduct
 
 
 **Diversity is a resource that enriches us culturally and intellectually. 
