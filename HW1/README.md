@@ -16,7 +16,7 @@ my first initial is F, my last name is Bianco, so mine is PUS2022\_FBianco
 
 - Add a README file when you create your repository that indicates that this is the repo for Foundations of Data Science.  When the repository gets created the README is empty. You should edit it to reflect the purpose of the repository. Use the pencil symbol on the right of the readme in the repository main page to edit it
 
-- <img src="../imgs/Screen Shot 2022-09-01 at 6.39.38 PM.png" width=500>
+ <img src="../imgs/Screen\ Shot\ 2022-08-01\ at\ 1.32.34\ PM.png" width=500>
   
   <img src="../imgs/Screen Shot 2022-09-01 at 6.32.15 PM.png" width=500>
 
