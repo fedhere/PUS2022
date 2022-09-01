@@ -10,7 +10,7 @@
 
 
 - Create a repository called FDSfE\_\<FirstinitialLastname\>;
-my first initial is F, my last name is Bianco, so mine is PUS\_FBianco
+my first initial is F, my last name is Bianco, so mine is PUS2022\_FBianco
 
 <img src="../imgs/Screen Shot 2022-08-30 at 3.23.08 PM.png" width=500>
 
