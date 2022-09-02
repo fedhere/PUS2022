@@ -23,7 +23,7 @@ my first initial is F, my last name is Bianco, so mine is PUS2022\_FBianco
   
 - upload to your github repo the colab notebook we have worked on in class. the colab notebooks should appear in a folder HW1 and have a google colab link (more instructions will appear on github)
 
-<img src="../imgs/Screen Shot 2022-09-01 at 7.31.20 PM.png" width=500>
+<img src="../imgs/Screen Shot 2022-08-31 at 2.54.15 PM.png" width=500>
 
 - post your github repo URL on canvas
 
