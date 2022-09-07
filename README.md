@@ -20,37 +20,35 @@ The instructors is: Dr. Federica Bianco fbianco@udel.edu
 oﬃce hours: Tentatively: Wednesdays 1200-2PM (or by appointment).
 
 
-Books: These books are available online, for free.
-
-While there is not a single book that supports the material we will cover in this class, several textbooks can help you through the class primary textbooks are: 
-computing and coding: Beginning Python Visualization, 2009
-Python for Data Analysis, W. McKinney, O'Reilly Media
-data analysis: Statistics in a nutshell, S. Boslaugh, O'Reilly Media
-ML in python: Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow probably the book that is closer to the syllabus in terms of techniques, but don’t buy it, because the second edition is due to come out imminently and the deep learning chapters of the previous edition are out of date now
-Also these may be helpful
-Elements of Statistical Learning, Hastie,Tibshirani,Friedman, Springer 2001
-visualizations: Visualizations Analysis and Design, T. Munzer, 2014 - this is the only one that is not available online for free at this time. It is great if you want to focus on visualizations, but also non essential for the course or your career otherwise
 
 
 Each week you will have two sessions, each a mix of  lecture and lab. Classes are synchronous and attendance in lecture and lab is mandatory. The material will be covered in the slides handed out every week and, but participating to the class and the discussions therein will be crucial for your development in the class.					
 Learning Outcomes 
 By the end of this class you should be able to formulate an appropriate analysis plan for a research question, select, gather, and prepare data for analysis, and choose and apply machine learning methods to the data.				
 
-Technology 
+### Books: 
+
+Books are available online, for free - check the class wensite.
+
+### Technology :
+
 Google Collaboratory will be used for the class. Homework can be developed on any platform as long as the computational set up is consistent for the entire class: I need to be able to reproduce your work and obtain the same results on google collab. Modules and library used in your work need to be accessible to me, the graders, and your classmates.
 
 The course will be organized in a modular fashion, with some guest lectures. Each statistical and machine learning method will be studied as it is applied to a physical problem, based on open data and literature examples.
 
+### Homework : 
+
 Homework will be exclusively received through github.
+
 Homework projects must be turned in as iPython notebooks by checking them into your github account in the PUS2020_<fistinitialLastname>/HW<hwnumber>_<fistinitialLastname> repo (unless otherwise stated).			
 Assessment 
 Grades are based on 
 
-15%  pre-class questions
-15%  labs performance and participation 
-20% homework 
-20% midterm 
-30% ﬁnal 
+-15%  pre-class questions
+-15%  labs performance and participation 
+-20% homework 
+-20% midterm 
+-30% ﬁnal 
 
 Weekly assignments will be handed out at the end of the class, and will be due strictly before the first class of the following week on Monday 12:00PM Noon unless otherwise stated (no submissions at all can be accepted after that as the homework may be reviewed in class). 
 
@@ -64,75 +62,6 @@ There will be opportunities for extra credit projects to improve your grade afte
 Course Calendar 
 Lecture and reading schedule (details are subject to change depending on relevant social events, and ongoing learning outcomes):
 
-Week 0 (8/31):
-Lecture: philosophy and good practices of data science: the flow chart of a data-driven project from idea to divulgation,  the concepts of falsifiability, reproducibility, open science.
-
-	Week 1 (9/5 & 9/7)
-Lecture: what do science have to do with policy, why python, the importance of version control.
-Lab: github repositories, Jupyter Notebooks
-
-Week 2 (09/12 & 09/14) 
-Lecture: Descriptive statistics: why everything is gaussian (...or not), bias, basic distributions, moments,
-Lab: acquiring and preparing data (CSV, TSV, downloadable ascii files, basic SQL) merging data from different files, plotting histograms and scatter plots, data types incl. ordinal, continuous, categorical data. Data: Citibikes
-
-Week 3 (9/19 & 9/21)
-Lecture: Hypothesis testing (chi-square, z-test, p-value).
-Lab: Philadelphia criminal data
-
-Week 4 (9/26 & 9/28)
-Lecture: Regression: OLS, WLS, missing data, small data.
-Lab: TBD
-
-Week 4 (10/3 & 10/5)
-Lecture: PDF/CDF, data dredging, sample of 1, correlation vs causality, error analysis, testing models (KS, anderson darling, KL divergence), basic plotting.
-Lab: hypothesis testing
-
-Week 5 ( 10/10 & 10/12)
-Midterm projects presentations
-
-Week 6 ( 10/17 & 10/19)
-Visualizations. Communication through visualizations, history, significance, good and bad visualization examples, what have we learnt since the 1800s?
-Lab: a viz, osmnx
-
-Week 7 ( 10/24 & 10/26)
-Lecture: Geospatial analysis with python
-Lab:  Geopandas, mapping census
-	
-Week 8 ( 10/31 & 11/2)
-Lecture: Time series analysis 
-Lab: changes time series data: the NYC subway data
-
-Week 9 ( 11/7 & 11/9)
-Lecture: Supervised learning: Tree models
-Lab: TBD
-
-Week 10 ( 11/14 & 11/16)
-Lecture: Unsupervised learning
-Lab: Census + Philadelphia data clustering: gentrification
-
-
-Week 11 ( 11/28 & 11/30)
-Lecture: Data Ethics
-Lab: neural networks for super resolution
-
-
-Week 12:( 12/75& 12/7)
-Final presentations
-
-
-The Final exam is cumulative: you are responsible for ALL OF THE MATERIAL.
-
-Missing Topics:	
-
-Spatial simulations: MonteCarlo Methods
-Kriging - Gaussian Processes
-Audio vs Video data
-multiprocessing/multithreading
-Visualizations w D3
-D3+GIS visualizations 
-optimization techniques (gradient descent, annealing...)
-web/mobile coding
-Neural Networks 
 
 
 
