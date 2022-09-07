@@ -15,11 +15,11 @@ Does exercise help lose more weight than diet alone? <a href="http://bit.ly/htex
 Does smoking while pregnant affect children's intellectual development? <a href="http://bit.ly/htsmoking" target="_blank">http://bit.ly/htsmoking</a></p>
 
 
-Do teens use cell phones to access the internet more than adults?<span> </span><a href="http://bit.ly/htinternetaccess" target="_blank">http://bit.ly/htinternetaccess</a></p>
+Do teens use cell phones to access the internet more than adults? <span> </span><a href="http://bit.ly/htinternetaccess" target="_blank">http://bit.ly/htinternetaccess</a></p>
 
 
-Are citibikes a threat to road safety 1: geographic?<a href="http://bit.ly/htcitibike1" target="_blank">http://bit.ly/htcitibike1</a></p>
+Are citibikes a threat to road safety 1: geographic? <a href="http://bit.ly/htcitibike1" target="_blank">http://bit.ly/htcitibike1</a></p>
 
 
-Are citibikes a threat to road safety 1: longitudinal?</span><a href="http://bit.ly/htcitibike2" target="_blank">http://bit.ly/htcitibike2</a></p>
+Are citibikes a threat to road safety 1: longitudinal? </span><a href="http://bit.ly/htcitibike2" target="_blank">http://bit.ly/htcitibike2</a></p>
 </div></div>
