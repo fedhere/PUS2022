@@ -8,4 +8,4 @@ In your inbox you will soon receive the link to 2 files containing a Null and Al
 Dont worry about the hypothesis you had formulated in your own HW2: we will not ask you to perform this test! I realize this may be long term research that will use much more sophysticated analysis. This is just an exercise in thinking how to choose a potential statistical (NHRT) test
 
 ## Assignment 2:
-Follow the instructions in the notebook (Geospatial_NYCCitiBike_instructions.ipynb)[Geospatial_NYCCitiBike_instructions.ipynb] in this repo
+Follow the instructions in the notebook _Geospatial_NYCCitiBike_instructions.ipynb_ in this repo
