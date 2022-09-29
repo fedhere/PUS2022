@@ -1,5 +1,5 @@
 # READING
-A critique of NHRT (The earth is round (p0.05) - Cohen 1994)[http://www.iro.umontreal.ca/~dift3913/cours/papers/cohen1994_The_earth_is_round.pdf]
+A critique of NHRT (The earth is round \(p0.05\) - Cohen 1994)[http://www.iro.umontreal.ca/~dift3913/cours/papers/cohen1994_The_earth_is_round.pdf]
 
 # HOMEWORK
 ## Assignemnt 1:
